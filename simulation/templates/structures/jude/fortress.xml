@@ -15,6 +15,7 @@
   <ProductionQueue>
     <Entities datatype="tokens">
       units/{civ}/hero_judah
+      units/{civ}/hero_herod
 	 </Entities>
   </ProductionQueue>
   <VisualActor>

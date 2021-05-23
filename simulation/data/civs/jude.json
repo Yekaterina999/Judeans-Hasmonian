@@ -60,9 +60,6 @@
 		{
 			"Template": "units/jude/infantry_slinger_b",
 			"Count": 2
-		},
-		{
-			"Template": "units/jude/cavalry_javelineer_b"
 		}
 	],
 	"Formations": [
