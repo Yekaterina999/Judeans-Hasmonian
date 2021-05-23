@@ -1,0 +1,98 @@
+{
+	"Code": "jude",
+	"Culture": "jude",
+	"Name": "Judeans",
+	"Emblem": "session/portraits/emblems/emblem_judeans.png",
+	"History": "The Judeans of the Hasmonean Dynasty and later period.",
+	"Music": [
+		{
+			"File": "Helen_Leaves_Sparta.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Peaks_of_Atlas.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
+	"Factions": [
+		{
+			"Name": "Judeans",
+			"Description": "",
+			"Technologies": [],
+			"Heroes": [
+				{
+					"Name": "Judah Maccabbee",
+					"Class": "",
+					"Armament": "",
+					"Emblem": "",
+					"History": "Leader of the Maccabbean Revolt against the Seleucid Empire ."
+				}
+			]
+		}
+	],
+	"CivBonuses": [],
+	"TeamBonuses": [],
+	"Structures": [],
+	"WallSets": [
+		"other/wallset_palisade",
+		"structures/jude/wallset_stone"
+	],
+	"StartEntities": [
+		{
+			"Template": "structures/jude/civil_centre"
+		},
+		{
+			"Template": "units/jude/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/jude/infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/jude/infantry_slinger_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/jude/cavalry_javelineer_b"
+		}
+	],
+	"Formations": [
+		"special/formations/null",
+		"special/formations/box",
+		"special/formations/column_closed",
+		"special/formations/line_closed",
+		"special/formations/column_open",
+		"special/formations/line_open",
+		"special/formations/flank",
+		"special/formations/skirmish",
+		"special/formations/wedge",
+		"special/formations/battle_line",
+		"special/formations/phalanx"
+	],
+	"AINames": [
+		"Judah",
+		"John",
+		"Jonathan",
+		"Simon",
+		"Mattathias"
+	],
+	"SkirmishReplacements": {
+		"skirmish/units/default/infantry_ranged_b": "units/jude/infantry_slinger_b",
+		"skirmish/structures/default/house_10": "structures/jude/house",
+		"skirmish/structures/default/wall_tower": "units/jude/wall_tower",
+		"skirmish/structures/default/wall_gate": "units/jude/wall_gate",
+		"skirmish/structures/default/wall_short": "units/jude/wall_short",
+		"skirmish/structures/default/wall_medium": "units/jude/wall_medium",
+		"skirmish/structures/default/wall_long": "units/jude/wall_long"
+	},
+	"SelectableInGameSetup": true
+}
