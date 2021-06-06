@@ -18,6 +18,7 @@
       units/{civ}/hero_herod
       units/{civ}/hero_simon
       units/{civ}/hero_salome
+      units/{civ}/hero_john
 	 </Entities>
   </ProductionQueue>
   <VisualActor>

@@ -17,6 +17,11 @@
     <Civ>jude</Civ>
     <SpecificName></SpecificName>
   </Identity>
+  <ProductionQueue>
+  	<Entities datatype = "tokens">
+  		units/{civ}/merc_melee
+  	</Entities>
+  </ProductionQueue>
   <Obstruction>
     <Static width="20.0" depth="20.0"/>
   </Obstruction>
