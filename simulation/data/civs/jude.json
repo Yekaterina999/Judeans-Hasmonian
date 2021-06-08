@@ -60,6 +60,10 @@
 		{
 			"Template": "units/jude/infantry_slinger_b",
 			"Count": 2
+		},
+		{
+			"Template": "units/jude/cavalry_javelineer_b",
+			"Count": 1
 		}
 	],
 	"Formations": [
@@ -80,7 +84,14 @@
 		"John",
 		"Jonathan",
 		"Simon",
-		"Mattathias"
+		"Mattathias",
+		"Salome Alexandra",
+		"Herod",
+		"Jesus",
+		"David",
+		"Mary",
+		"Joseph",
+		"Magdalene"
 	],
 	"SkirmishReplacements": {
 		"skirmish/units/default/infantry_ranged_b": "units/jude/infantry_slinger_b",
