@@ -8,10 +8,10 @@
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
       units/{civ}/infantry_slinger_b
-      units/{civ}/cavalry_javelinist_b
+      units/{civ}/cavalry_javelineer_b
     </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/seleucids/civic_center.xml</Actor>
+    <Actor>structures/judeans/civil_centre.xml</Actor>
   </VisualActor>
 </Entity>

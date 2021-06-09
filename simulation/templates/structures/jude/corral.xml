@@ -5,6 +5,6 @@
     <SpecificName></SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/seleucids/corral.xml</Actor>
+    <Actor>structures/judeans/corral.xml</Actor>
   </VisualActor>
 </Entity>

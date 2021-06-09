@@ -22,7 +22,7 @@
 	 </Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/seleucids/fortress.xml</Actor>
+    <Actor>structures/judeans/fortress.xml</Actor>
   </VisualActor>
   <WallPiece>
     <Length>23</Length>

@@ -5,6 +5,6 @@
     <SpecificName></SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/seleucids/workshop.xml</Actor>
+    <Actor>structures/judeans/workshop.xml</Actor>
   </VisualActor>
 </Entity>

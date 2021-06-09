@@ -10,7 +10,7 @@
   	</Entities>
   </ProductionQueue>
   <VisualActor>
-    <Actor>structures/seleucids/stable.xml</Actor>
+    <Actor>structures/judeans/stable.xml</Actor>
     <FoundationActor>structures/fndn_7x6.xml</FoundationActor>
   </VisualActor>
 </Entity>
