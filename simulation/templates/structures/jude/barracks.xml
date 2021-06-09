@@ -19,7 +19,7 @@
   </Identity>
   <ProductionQueue>
   	<Entities datatype = "tokens">
-  		units/{civ}/merc_melee
+  		units/{civ}/infantry_swordsman_merc_b
   	</Entities>
   </ProductionQueue>
   <Obstruction>

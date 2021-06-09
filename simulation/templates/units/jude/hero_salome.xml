@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero">
   <Auras datatype="tokens">
-    units/heroes/jude_hero_salome
+    units/heroes/jude_hero_salome1
+    units/heroes/jude_hero_salome2
   </Auras>
   <Attack>
     <Capture>
@@ -23,6 +24,6 @@
     <Icon>units/jude_hero_salome.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/athenians/female_citizen.xml</Actor>
+    <Actor>units/judeans/hero_salome.xml</Actor>
   </VisualActor>
 </Entity>

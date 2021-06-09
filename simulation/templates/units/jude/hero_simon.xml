@@ -11,6 +11,6 @@
     <Icon>units/jude_hero_simon.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/mauryas/hero_healer_chanakya.xml</Actor>
+    <Actor>units/judeans/hero_simon.xml</Actor>
   </VisualActor>
 </Entity>

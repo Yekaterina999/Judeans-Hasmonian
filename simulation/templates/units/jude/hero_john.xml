@@ -11,6 +11,6 @@
     <Icon>units/jude_hero_john.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/athenians/hero_infantry_javelinist_iphicrates.xml</Actor>
+    <Actor>units/judeans/hero_john.xml</Actor>
   </VisualActor>
 </Entity>
