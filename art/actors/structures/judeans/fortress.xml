@@ -5,8 +5,7 @@
     <variant frequency="1" name="Persian_Fortress_A" file="structures/defensive_building.xml">
       <mesh>structural/pers_fortress.dae</mesh>
       <props>
-        <prop actor="props/structures/persians/fortress_paintings.xml" attachpoint="root"/>
-        <prop actor="props/structures/persians/fortress_shields.xml" attachpoint="root"/>
+       <prop actor="props/structures/hellenes/fortress_tile_b.xml" attachpoint="root"/>
         <prop actor="props/structures/decals/dirt_5x5.xml" attachpoint="root"/>
       </props>
       <textures>

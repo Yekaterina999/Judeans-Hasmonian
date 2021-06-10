@@ -1,6 +1,6 @@
 {
 	"type": "global",
-	"affects": ["Human"],
+	"affects": ["Worker"],
 	"modifications": [
 		{"value": "ResourceGatherer/Rates", "multiply": 1.25}
 	],

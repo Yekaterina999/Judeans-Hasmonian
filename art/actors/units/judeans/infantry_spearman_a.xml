@@ -9,6 +9,7 @@
         <prop actor="props/units/shields/numidian_round_2.xml" attachpoint="shield"/>
         <prop actor="props/units/weapons/spear_reverse.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/capes/hoplite.xml" attachpoint="root"/>
+        <prop actor="props/units/helmets/hele_phrygian_s1.xml" attachpoint="head"/>
       </props>
     </variant>
   </group>
@@ -58,7 +59,7 @@
     <variant file="biped/gather_praise.xml"/>
     <variant file="biped/build.xml"/>
     <variant file="biped/build_farm.xml"/>
-    <variant file="biped/death_hoplite.xml">
+    <variant file="biped/death_infantry.xml">
       <props>
         <prop actor="props/units/capes/hoplite.xml" attachpoint="root"/>
       </props>
